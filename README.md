@@ -16,28 +16,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MamidiAravind:
-    def __init__(self):
-        self.name       = "Mamidi Aravind"
-        self.location   = "Hyderabad, India 🇮🇳"
-        self.education  = "B.Tech – Electronics & Communication Engineering"
-        self.institute  = "Sri Indu Institute of Engineering & Technology"
-        self.email      = "mamidiarvind123@gmail.com"
+Hi! I'm **Mamidi Aravind**, a recent Electronics & Communication Engineering graduate from Hyderabad, India 🇮🇳
 
-    @property
-    def stack(self):
-        return {
-            "languages"  : ["Python (OOP)", "SQL", "HTML", "CSS"],
-            "frameworks" : ["Django", "Flask"],
-            "databases"  : ["MySQL", "Oracle SQL"],
-            "tools"      : ["Git", "Power BI", "Jira", "Selenium"],
-            "testing"    : ["Manual Testing", "Functional", "Regression", "Smoke"],
-        }
+I'm passionate about building real-world web applications using **Python, Django, and Flask**, and turning data into insights with **Power BI and SQL**.
 
-    def current_focus(self):
-        return "Python Full Stack Development @ Q Spiders"
-```
+- 🎓 B.Tech – ECE @ Sri Indu Institute of Engineering & Technology (CGPA: 7.5)
+- 💼 Currently training in **Python Full Stack Development** at Q Spiders, Hyderabad
+- 🔭 Building full-stack projects with Django, Flask, and MySQL
+- 🧪 Experienced in **Manual Testing**, Selenium automation, and QA workflows
+- 📊 Skilled in **Power BI dashboards** and SQL data analysis
+- 📫 Reach me at **mamidiarvind123@gmail.com**
 
 ---
 
