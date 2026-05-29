@@ -4,9 +4,16 @@
 
 </div>
 
----
-
 <div align="center">
+
+<!-- 
+  PROFILE PHOTO INSTRUCTIONS:
+  1. Go to your mamidi1506/mamidi1506 repo
+  2. Click "Add file" → "Upload files" → upload your photo (rename it to profile.jpg)
+  3. Then UNCOMMENT the line below (remove the HTML comment tags around it)
+-->
+
+<img src="https://github.com/mamidi1506/mamidi1506/raw/main/ppp.jpg" width="130" style="border-radius:50%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer+%F0%9F%90%8D;Django+%7C+Flask+%7C+MySQL+Builder;Power+BI+%26+Data+Analytics;ECE+Graduate+%7C+Always+Learning)](https://git.io/typing-svg)
 
